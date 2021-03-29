@@ -128,3 +128,4 @@ void Lm75a_Delay(uint64_t time){
     while(counterr);
 }
 
+
